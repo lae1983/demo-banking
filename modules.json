@@ -1,5 +1,5 @@
 {
-  "name": "demo-banking-FIXME",
+  "name": "demo-banking-lae1983",
   "description": "Demo banking package",
   "modules": [
     "src/banking.cbl"
@@ -9,7 +9,7 @@
     "MIT"
   ],
   "authors": [
-    "FIXME"
+    "lae1983"
   ],
   "dependencies": {},
   "dependencies-debug": {
