@@ -1,0 +1,9 @@
+      *> @package gcblunit 1.22.6
+      *> @package core-network 3.4.5
+       COPY "src/connecttoserver.cbl" OF "modules/core-network".
+       COPY "src/network.cbl" OF "modules/core-network".
+      *> @package core-string 3.11.6
+       COPY "src/keccak.cbl" OF "modules/core-string".
+       COPY "src/string.cbl" OF "modules/core-string".
+      *> @package core-datetime 3.0.6
+       COPY "src/datetime.cbl" OF "modules/core-datetime".
